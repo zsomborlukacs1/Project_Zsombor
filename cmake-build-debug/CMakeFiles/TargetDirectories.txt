@@ -1,0 +1,3 @@
+D:/SAPIENTIA/I.EV_2/ADATSZ1/Demoproject/cmake-build-debug/CMakeFiles/Demoproject.dir
+D:/SAPIENTIA/I.EV_2/ADATSZ1/Demoproject/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/SAPIENTIA/I.EV_2/ADATSZ1/Demoproject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
